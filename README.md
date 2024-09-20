@@ -32,7 +32,7 @@ This project relies on the following dependencies:
 ### Steps
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/car-diagnostics-assistant.git
+    git clone https://github.com/polina-dnsk/car-diagnostics-assistant.git
     cd car-diagnostics-assistant
     ```
 
