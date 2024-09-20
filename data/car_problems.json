@@ -1,0 +1,167 @@
+[
+    {
+        "error_code": "P0300",
+        "description": "Random/Multiple Cylinder Misfire Detected",
+        "details": "The engine is experiencing misfires in multiple cylinders, which leads to rough idling, loss of power, and poor fuel economy. This can cause long-term damage if left unaddressed.",
+        "causes": [
+            "Faulty spark plugs or spark plug wires",
+            "Fuel delivery issues (e.g., clogged fuel injectors)",
+            "Ignition coil failure",
+            "Vacuum leaks"
+        ],
+        "solutions": [
+            "Replace faulty spark plugs and wires",
+            "Clean or replace clogged fuel injectors",
+            "Check and replace bad ignition coils",
+            "Repair vacuum leaks"
+        ],
+        "source": "car_problems.json"
+    },
+    {
+        "error_code": "P0420",
+        "description": "Catalyst System Efficiency Below Threshold (Bank 1)",
+        "details": "The catalytic converter is not working efficiently on Bank 1, which may lead to excessive vehicle emissions and potential damage to the emission control system.",
+        "causes": [
+            "Failing catalytic converter",
+            "Faulty oxygen sensors (O2 sensors)",
+            "Exhaust leaks",
+            "Engine misfire"
+        ],
+        "solutions": [
+            "Replace the catalytic converter if necessary",
+            "Check and replace faulty oxygen sensors",
+            "Repair any exhaust leaks",
+            "Fix engine misfire issues"
+        ],
+        "source": "car_problems.json"
+    },
+    {
+        "error_code": "P0171",
+        "description": "System Too Lean (Bank 1)",
+        "details": "The air-fuel mixture is too lean on Bank 1, meaning there is too much air and not enough fuel in the combustion chamber, leading to poor performance and potential engine damage.",
+        "causes": [
+            "Vacuum leaks",
+            "Dirty or faulty mass airflow sensor (MAF)",
+            "Clogged fuel filter",
+            "Low fuel pressure"
+        ],
+        "solutions": [
+            "Fix vacuum leaks",
+            "Clean or replace the mass airflow sensor (MAF)",
+            "Replace clogged fuel filter",
+            "Check and repair low fuel pressure issues"
+        ],
+        "source": "car_problems.json"
+    },
+    {
+        "error_code": "P0455",
+        "description": "Evaporative Emission Control System Leak Detected (Large Leak)",
+        "details": "This code indicates a large leak in the evaporative emission control system (EVAP), which prevents fuel vapors from escaping into the atmosphere.",
+        "causes": [
+            "Loose or missing gas cap",
+            "Cracked or damaged EVAP hoses",
+            "Faulty purge or vent valve"
+        ],
+        "solutions": [
+            "Tighten or replace the gas cap",
+            "Repair or replace damaged EVAP hoses",
+            "Replace faulty purge or vent valves"
+        ],
+        "source": "car_problems.json"
+    },
+    {
+        "error_code": "P0113",
+        "description": "Intake Air Temperature Sensor 1 Circuit High",
+        "details": "This code indicates that the intake air temperature sensor is reporting a value that is too high, which could lead to improper fuel combustion and performance issues.",
+        "causes": [
+            "Faulty intake air temperature sensor",
+            "Wiring issues such as shorts or breaks",
+            "Corroded sensor connectors"
+        ],
+        "solutions": [
+            "Replace intake air temperature sensor if necessary",
+            "Repair or replace damaged wiring or connectors"
+        ],
+        "source": "car_problems.json"
+    },
+    {
+        "error_code": "P0705",
+        "description": "Transmission Range Sensor Circuit Malfunction",
+        "details": "The transmission range sensor is malfunctioning, causing improper gear selection or failure to shift gears, leading to poor transmission performance.",
+        "causes": [
+            "Faulty transmission range sensor",
+            "Damaged or corroded wiring",
+            "Faulty gear shifter or shift linkage"
+        ],
+        "solutions": [
+            "Replace the transmission range sensor",
+            "Repair or replace damaged wiring",
+            "Check and repair gear shifter or shift linkage"
+        ],
+        "source": "car_problems.json"
+    },
+    {
+        "error_code": "P0302",
+        "description": "Cylinder 2 Misfire Detected",
+        "details": "The engine's second cylinder is misfiring, which could lead to poor engine performance, higher emissions, and potential engine damage if not addressed.",
+        "causes": [
+            "Faulty spark plug or coil pack for cylinder 2",
+            "Fuel delivery issue in cylinder 2",
+            "Vacuum leak near cylinder 2"
+        ],
+        "solutions": [
+            "Replace spark plug and coil pack in cylinder 2",
+            "Check and clean fuel injectors",
+            "Repair any vacuum leaks near cylinder 2"
+        ],
+        "source": "car_problems.json"
+    },
+    {
+        "error_code": "P0500",
+        "description": "Vehicle Speed Sensor Malfunction",
+        "details": "The vehicle speed sensor is malfunctioning, causing incorrect speed readings on the dashboard and potential transmission issues.",
+        "causes": [
+            "Faulty vehicle speed sensor",
+            "Damaged sensor wiring",
+            "Faulty instrument cluster"
+        ],
+        "solutions": [
+            "Replace vehicle speed sensor",
+            "Repair or replace damaged sensor wiring",
+            "Check and replace faulty instrument cluster"
+        ],
+        "source": "car_problems.json"
+    },
+    {
+        "error_code": "P0101",
+        "description": "Mass Air Flow Sensor Circuit Range/Performance Problem",
+        "details": "The mass airflow (MAF) sensor is reading values outside of the expected range, which can cause the engine to run lean or rich, leading to poor performance and higher emissions.",
+        "causes": [
+            "Dirty or faulty MAF sensor",
+            "Air leaks between MAF sensor and throttle body",
+            "Clogged air filter"
+        ],
+        "solutions": [
+            "Clean or replace MAF sensor",
+            "Repair any air leaks",
+            "Replace clogged air filter"
+        ],
+        "source": "car_problems.json"
+    },
+    {
+        "error_code": "P0700",
+        "description": "Transmission Control System Malfunction",
+        "details": "The transmission control system has detected a malfunction, which may lead to erratic shifting or the vehicle being stuck in a single gear.",
+        "causes": [
+            "Transmission control module failure",
+            "Damaged wiring in the transmission control system",
+            "Low transmission fluid"
+        ],
+        "solutions": [
+            "Replace transmission control module if necessary",
+            "Repair or replace damaged wiring",
+            "Check and refill transmission fluid levels"
+        ],
+        "source": "car_problems.json"
+    }
+]
