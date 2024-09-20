@@ -55,9 +55,9 @@ This project relies on the following dependencies:
 Once the program is running, it will load a database of car error codes and problems, and prompt you to ask a question.
 
 ### Example session:
-🚗 Welcome to the Car Diagnostics Assistant! 🚗
+🚗 Welcome! I am your Car Diagnostics Assistant! 🚗
 
-I'm here to help you diagnose car issues and provide solutions based on your car's error codes and symptoms.
+I am here to help you diagnose car issues and provide solutions based on your car's error codes and symptoms.
 
 **Here are some example questions you can ask:**
 - What does P0300 mean?
