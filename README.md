@@ -21,7 +21,7 @@ This project is a **Car Diagnostics Assistant** built using a **Retrieval-Augmen
 This project relies on the following dependencies:
 
 - **ChromaDB**: For vector-based data storage and retrieval. [Learn more](https://www.trychroma.com/)
-- **OpenAI**: For GPT-based natural language generation. [Sign up for an API key](https://platform.openai.com/signup)
+- **OpenAI**: For GPT-based natural language generation. This project specifically utilizes the GPT-4o-mini model. [Sign up for an API key](https://platform.openai.com/signup)
 - **python-dotenv**: A module to load environment variables from a `.env` file.
 
 ### System Requirements
